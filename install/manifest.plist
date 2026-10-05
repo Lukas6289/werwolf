@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict><key>items</key><array><dict>
+  <key>assets</key><array><dict><key>kind</key><string>software-package</string><key>url</key><string>https://api.codemagic.io/artifacts/.eJwVwduSQzAAANB_6buZYrqxj0SWCFLrsvTFuDUsRVzq8vU7e86Fqf80vgmAMYF6NBorfu8nw8r27QB9PCco1UfyZoYEAhdK6W-PVNseiYgUr25ovkSFDxOd0xUxzMFa1trzE9mGRaNW8eMltL5lXQ3kEPNjSc66ifmsqE1W43wg7ts2Ww-J6vZzkms9y76AjLWTjgyHt-IxHB_wGnkOMQtQ3oWozwsX7t7c64JjklsFJzkYskrG5eSkI1Dmc32tthXxpa9yNZRTUWBe6-rjV3vCLaVOsOOk5t0T2pp_KCAWXyRLmJV2D_8qXv4AukdaXQ.4uzHpk-mVsF2riVowmTtztUz7-E</string></dict></array>
+  <key>metadata</key><dict>
+    <key>bundle-identifier</key><string>de.werwoelfe.spielleiter</string>
+    <key>bundle-version</key><string>1.0</string>
+    <key>kind</key><string>software</string>
+    <key>title</key><string>Werwolf – Spielleiter</string>
+  </dict>
+</dict></array></dict></plist>
